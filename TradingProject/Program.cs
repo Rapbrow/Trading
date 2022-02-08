@@ -11,6 +11,7 @@ namespace TradingProject
         /// <summary>
         /// Point d'entrée principal de l'application.
         /// </summary>
+        /// fkjaeoizef zfeofn
         [STAThread]
         static void Main()
         {
