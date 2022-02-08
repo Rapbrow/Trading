@@ -10,7 +10,7 @@ namespace TradingProject
     {
         /// <summary>
         /// Point d'entrée principal de l'application.
-        /// </summary>
+        /// </summary> gerg
         /// fkjaeoizef zfeofn
         [STAThread]
         static void Main()
